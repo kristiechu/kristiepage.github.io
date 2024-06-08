@@ -1,7 +1,7 @@
 # CIT 281 Portfolio
 
 ## Week 1
-- [Lab 1]((https://kristiechu.github.io/cit281-lab1/))
+- [Lab 1](https://kristiechu.github.io/cit281-lab1/)
 - [Project 1](https://kristiechu.github.io/cit281-project1/)
 
 ## Week 2
