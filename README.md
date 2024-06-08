@@ -30,6 +30,6 @@
 
 ## Week 8
 - Lab 8
-- Project 8
+  
 ## Week 9
 - Lab 9
