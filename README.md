@@ -1,5 +1,5 @@
 # CIT 281 Portfolio
-![Pic](https://github.com/kristiechu/kristiepage.github.io/blob/main/Image.png)
+
 ## Week 1
 - Lab 1
 - Project 1
