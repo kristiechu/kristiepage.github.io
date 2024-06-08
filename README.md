@@ -1,7 +1,7 @@
 # CIT 281 Portfolio
 
-## $${\color{lightblue}Week 1}
-`
+## Week 1
+
 ## Week 2
 
 ## Week 3
